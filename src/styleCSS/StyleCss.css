@@ -1,0 +1,106 @@
+.aboutImage {
+    height: 480px;
+    width:320px;
+    object-fit: cover;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .aboutImage {
+        height: 240px;
+        width:120px;
+        object-fit: cover;
+    }
+    
+  }
+
+
+
+  .serviceImage {
+    height:200px;
+    width:300px;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .serviceImage {
+        height: 110px;
+        width:150px;
+        
+    }
+    
+    
+  }
+
+
+  .service1Image {
+    height:200px;
+    width:300px;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .service1Image {
+        height: 110px;
+        width:150px;
+        
+    }
+    
+    
+  }
+
+  .se {
+    height:200px;
+    width:100%;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .se {
+        height: auto;
+        width:auto
+        
+    }
+    
+    
+  }
+
+
+  .se1 {
+    height:400px;
+    width:500px;
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .se1 {
+        height: 200px;
+        width:200px
+        
+    }
+    
+    
+  }
+
+  .se2 {
+    height:550px;
+    
+    
+}
+
+
+@media only screen and (max-width: 600px) {
+    .se2 {
+        height: 200px;
+       
+        
+    }
+    
+    
+  }
+
+

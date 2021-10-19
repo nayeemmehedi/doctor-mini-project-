@@ -1,0 +1,56 @@
+[ {
+    "img": "https://static.medmonks.com/home/img/blog/cardiologist-india.jpg",
+    "name": "Cardiologists",
+    "doctorName": "Dr.Maisha Fairuz",
+    "description": "who specialize in this field of medicine are called cardiologists,a specialty of internal medicine."
+  }, {
+    "img": "https://hudgensmd.com/wp-content/uploads/2015/05/shutterstock_71143099.jpg",
+    "name": "Dermatologists",
+    "doctorName": "Dr.Eva Rahman",
+    "description": "who diagnose, investigate,treat and manage the conditions of children and adults with skin disease"
+  }, {
+    "img": "https://health.sunnybrook.ca/wp-content/uploads/2014/05/yhm-cancer-nutrition-1-425x282.jpg",
+    "name": "Surgeon",
+    "doctorName": "Dr.Noushin Shormily",
+    "description": "evaluating and treating conditions that may require surgery,or physically changing the human body."
+  }, {
+    "img": "https://www.hshs.org/HSHSFamily/media/St-Vincent/Services/St-Vincent-Neuroscience-Center.jpg",
+    "name": "Neurologists",
+    "doctorName": "Dr.Iqbal Hossain",
+    "description": "treat diseases of the brain and spinal cord, peripheral nerves and muscles."
+  }, {
+    "img": "https://specialistdirectinc.com/wp-content/uploads/2018/09/iStock-881627390-1024x683.jpg",
+    "name": "Pathologists",
+    "doctorName": "Dr.amit saha",
+    "description": "A pathologist is a medical healthcare provider who examines bodies and body tissues."
+  }, {
+    "img": "https://ergomotion.com.au/wp-content/uploads/2019/11/standing-desks-in-Melbourne.jpg",
+    "name": "Radiologists",
+    "doctorName": "Dr.Nusrat Faria",
+    "description": "in diagnosing and treating disease and injury, using medical imaging techniques such as x-rays,"
+  }, {
+    "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/286/286276/urologist.jpg",
+    "name": "Urologists",
+    "doctorName": "Dr.Nijam Uddin",
+    "description": "specialize in the genitourinary tract—the kidneys, urinary bladder,urethra and male reproductive organs"
+  }, {
+    "img": "https://www.fairfaxcolorectal.com/wp-content/uploads/2017/02/Colorectal-Surgeon.jpg",
+    "name": "Colon and Rectal Surgeons",
+    "doctorName": "Dr.Rabeya Bosri",
+    "description": "Colon and rectal surgeons are experts in the surgical and non-surgical treatment of colon and rectal problems. "
+  }, {
+    "img": "https://www.myauroradentist.com/wp-content/uploads/Happy-Girl-at-Dentist.jpg",
+    "name": "Dentist",
+    "doctorName": "Dr.md.sifat",
+    "description": "who specialize in this field of Dentists remove tooth decay, fill cavities, and repair fractured teeth."
+  }, {
+    "img": "https://image.shutterstock.com/image-photo/beauty-portrait-woman-blue-cap-260nw-795630106.jpg",
+    "name": "Plastic surgeon",
+    "doctorName": "Dr.Anisur Rahman",
+    "description": "Plastic surgeons shape and mould regions of the body like the ears, face, trunk, hands and other extremities."
+  }, {
+    "img": "https://www.hopkinsmedicine.org/sebin/x/m/DOM1701039%20Psy%20Pulse.jpg",
+    "name": "Psychiatrists",
+    "doctorName": "Dr.Iffat Bristy",
+    "description": "specializes in mental health, including substance use disorders."
+  }]
